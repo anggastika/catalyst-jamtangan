@@ -3,15 +3,8 @@
 is a Automated UI Test project for Stockbit Web 
 
 ## The Equipments
-1. Intellij IDE latest version with plugin Lombok,Gherkin,Cucumber.
-2. Android SDK built in Latest Android Studio).
-3. Android Emulator, set deviceName : device , platformName : Android, platformVersion : 10.0, udid : emulator-5554.
-   Pixel : 5.0 1080x1920 420dpi.
-4. Chrome Mobile Browser version 90.
-5. ChromeDriver version 90.
-6. Appium v1.20.2
-7. latest build JDK 1.8.xxx
-8. Setting Java PATH environment and Android SDK Home (follow the instructions according to the OS you are using) 
+ChromeDriver Version 107 for Mac or Windows
+
 
 ## How to Clone
 
