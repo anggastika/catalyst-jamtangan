@@ -10,7 +10,7 @@ ChromeDriver Version 107 for Mac or Windows
 
 
 ```bash
-./gradlew clean test -Dcucumber.filter.tags="@CorrectPassword"
+./gradlew clean test -Dcucumber.filter.tags="@TechTest"
 
 ```
 
