@@ -1,0 +1,282 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-28T10:16:29.940Z",
+        "before": [
+          {
+            "result": {
+              "duration": 5442000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "demo.hooks.WebdriverHooks.initializeWebdriver()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Login with registered user and correct password",
+        "description": "",
+        "id": "order-on-jamtangan;login-with-registered-user-and-correct-password",
+        "after": [
+          {
+            "result": {
+              "duration": 114000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "demo.hooks.WebdriverHooks.quitWebdriver(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 11136000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User is on landing page",
+            "match": {
+              "location": "demo.steps_definition.JamtanganSteps.userIsOnLandingPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1469000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click menu login",
+            "match": {
+              "location": "demo.steps_definition.JamtanganSteps.userClickMenuLogin()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1333000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User input username as \"angga.pangestika@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"angga.pangestika@gmail.com\"",
+                  "offset": 23
+                }
+              ],
+              "location": "demo.steps_definition.JamtanganSteps.userInputUsernameAs(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1121000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User input password as \"Passw0rd!\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Passw0rd!\"",
+                  "offset": 23
+                }
+              ],
+              "location": "demo.steps_definition.JamtanganSteps.userInputPasswordAs(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 702000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User click button masuk",
+            "match": {
+              "location": "demo.steps_definition.JamtanganSteps.userClickButtonMasuk()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3453000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User is on homepage",
+            "match": {
+              "location": "demo.steps_definition.JamtanganSteps.userIsOnHomepage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1577000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User input search as \"casio\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"casio\"",
+                  "offset": 21
+                }
+              ],
+              "location": "demo.steps_definition.JamtanganSteps.userInputSearch(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 432000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User click loup icon",
+            "match": {
+              "location": "demo.steps_definition.JamtanganSteps.userClickLoup()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4756000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User click product",
+            "match": {
+              "location": "demo.steps_definition.JamtanganSteps.userClickProduct()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2613000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User click Beli Sekarang",
+            "match": {
+              "location": "demo.steps_definition.JamtanganSteps.userClickBeliSkrg()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2787000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User click Lanjutkan",
+            "match": {
+              "location": "demo.steps_definition.JamtanganSteps.userClickLanjutkan()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7098000000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User Pilih Pengiriman",
+            "match": {
+              "location": "demo.steps_definition.JamtanganSteps.userClickPilihPengiriman()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 77000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User click Pembayaran",
+            "match": {
+              "location": "demo.steps_definition.JamtanganSteps.userClickPembayaran()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3629000000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User choose VA BCA",
+            "match": {
+              "location": "demo.steps_definition.JamtanganSteps.userChooseVaBca()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1167000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User click Order",
+            "match": {
+              "location": "demo.steps_definition.JamtanganSteps.userClickOrder()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4055000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User get bill payment information \"Rp257.000\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Rp257.000\"",
+                  "offset": 34
+                }
+              ],
+              "location": "demo.steps_definition.JamtanganSteps.userGetBillPayment(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Web"
+          },
+          {
+            "name": "@Positive"
+          },
+          {
+            "name": "@TechTest"
+          }
+        ]
+      }
+    ],
+    "name": "Order on jamtangan",
+    "description": "",
+    "id": "order-on-jamtangan",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/stockbit/Jamtangan.feature",
+    "tags": [
+      {
+        "name": "@Web",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

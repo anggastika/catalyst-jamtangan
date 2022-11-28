@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo.CucumberRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="AP00218-MP" time="0.0">
+  <properties/>
+  <system-out><![CDATA[  ?[32mGiven ?[0m?[32mUser is on landing page?[0m                           ?[90m# demo.steps_definition.JamtanganSteps.userIsOnLandingPage()?[0m
+  ?[32mWhen ?[0m?[32mUser click menu login?[0m                              ?[90m# demo.steps_definition.JamtanganSteps.userClickMenuLogin()?[0m
+  ?[32mAnd ?[0m?[32mUser input username as ?[0m?[32m?[1m"angga.pangestika@gmail.com"?[0m ?[90m# demo.steps_definition.JamtanganSteps.userInputUsernameAs(java.lang.String)?[0m
+  ?[32mAnd ?[0m?[32mUser input password as ?[0m?[32m?[1m"Passw0rd!"?[0m                  ?[90m# demo.steps_definition.JamtanganSteps.userInputPasswordAs(java.lang.String)?[0m
+  ?[32mAnd ?[0m?[32mUser click button masuk?[0m                             ?[90m# demo.steps_definition.JamtanganSteps.userClickButtonMasuk()?[0m
+  ?[32mThen ?[0m?[32mUser is on homepage?[0m                                ?[90m# demo.steps_definition.JamtanganSteps.userIsOnHomepage()?[0m
+  ?[32mAnd ?[0m?[32mUser input search as ?[0m?[32m?[1m"casio"?[0m                        ?[90m# demo.steps_definition.JamtanganSteps.userInputSearch(java.lang.String)?[0m
+  ?[32mAnd ?[0m?[32mUser click loup icon?[0m                                ?[90m# demo.steps_definition.JamtanganSteps.userClickLoup()?[0m
+  ?[32mAnd ?[0m?[32mUser click product?[0m                                  ?[90m# demo.steps_definition.JamtanganSteps.userClickProduct()?[0m
+  ?[32mAnd ?[0m?[32mUser click Beli Sekarang?[0m                            ?[90m# demo.steps_definition.JamtanganSteps.userClickBeliSkrg()?[0m
+  ?[32mAnd ?[0m?[32mUser click Lanjutkan?[0m                                ?[90m# demo.steps_definition.JamtanganSteps.userClickLanjutkan()?[0m
+  ?[32mAnd ?[0m?[32mUser Pilih Pengiriman?[0m                               ?[90m# demo.steps_definition.JamtanganSteps.userClickPilihPengiriman()?[0m
+  ?[32mAnd ?[0m?[32mUser click Pembayaran?[0m                               ?[90m# demo.steps_definition.JamtanganSteps.userClickPembayaran()?[0m
+  ?[32mAnd ?[0m?[32mUser choose VA BCA?[0m                                  ?[90m# demo.steps_definition.JamtanganSteps.userChooseVaBca()?[0m
+  ?[32mAnd ?[0m?[32mUser click Order?[0m                                    ?[90m# demo.steps_definition.JamtanganSteps.userClickOrder()?[0m
+  ?[32mThen ?[0m?[32mUser get bill payment information ?[0m?[32m?[1m"Rp257.000"?[0m      ?[90m# demo.steps_definition.JamtanganSteps.userGetBillPayment(java.lang.String)?[0m
+]]></system-out>
+  <system-err><![CDATA[?[32m?[1m┌───────────────────────────────────────────────────────────────────────────────────┐?[0m
+?[32m?[1m│?[0m Share your Cucumber Report with your team at ?[36m?[1m?[4mhttps://reports.cucumber.io?[0m          ?[32m?[1m│?[0m
+?[32m?[1m│?[0m Activate publishing with one of the following:                                    ?[32m?[1m│?[0m
+?[32m?[1m│?[0m                                                                                   ?[32m?[1m│?[0m
+?[32m?[1m│?[0m src/test/resources/cucumber.properties:          ?[36mcucumber.publish.enabled?[0m=?[36mtrue?[0m    ?[32m?[1m│?[0m
+?[32m?[1m│?[0m src/test/resources/junit-platform.properties:    ?[36mcucumber.publish.enabled?[0m=?[36mtrue?[0m    ?[32m?[1m│?[0m
+?[32m?[1m│?[0m Environment variable:                            ?[36mCUCUMBER_PUBLISH_ENABLED?[0m=?[36mtrue?[0m    ?[32m?[1m│?[0m
+?[32m?[1m│?[0m JUnit:                                           ?[36m@CucumberOptions?[0m(publish = ?[36mtrue?[0m) ?[32m?[1m│?[0m
+?[32m?[1m│?[0m                                                                                   ?[32m?[1m│?[0m
+?[32m?[1m│?[0m More information at ?[36mhttps://cucumber.io/docs/cucumber/environment-variables/?[0m      ?[32m?[1m│?[0m
+?[32m?[1m│?[0m                                                                                   ?[32m?[1m│?[0m
+?[32m?[1m│?[0m Disable this message with one of the following:                                   ?[32m?[1m│?[0m
+?[32m?[1m│?[0m                                                                                   ?[32m?[1m│?[0m
+?[32m?[1m│?[0m src/test/resources/cucumber.properties:          ?[36mcucumber.publish.quiet?[0m=?[36mtrue?[0m      ?[32m?[1m│?[0m
+?[32m?[1m│?[0m src/test/resources/junit-platform.properties:    ?[36mcucumber.publish.quiet?[0m=?[36mtrue?[0m      ?[32m?[1m│?[0m
+?[32m?[1m└───────────────────────────────────────────────────────────────────────────────────┘?[0m
+]]></system-err>
+</testsuite>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="165e815e-1f3f-4b6a-beac-ebb51afb83fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/CheckoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/stockbit/Jamtangan.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitlab-ci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slackreport.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/api/bibit/auth/login/BaseApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/api/bibit/auth/login/LoginApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/api/bibit/auth/login/PortofolioApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/api/bibit/robo/CheckRoboResultApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/api/pokeapi/PokemonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/auth/login/login_otp/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/auth/login/login_otp/Correspondence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/auth/login/login_otp/Crisp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/auth/login/login_otp/Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/auth/login/login_otp/LoginOtpResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/auth/login/login_otp/Moengage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/auth/login/login_otp/PaymentConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/auth/login/login_otp/Preference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/auth/login/login_otp/Setting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/auth/login/login_otp/Sinvest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/auth/login/login_otp/Survey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/auth/login/login_otp/Token.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/auth/login/login_otp/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/auth/login/login_phone/Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/auth/login/login_phone/LoginPhoneResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/portofolio/get_portofolio/Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/portofolio/get_portofolio/GetPortofolioResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/portofolio/get_portofolio/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Asset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Aum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Cagr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Changesvalue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/CheckRoboResultResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/CustodianBank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Equity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Expenseratio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Factsheet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Fee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Files.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Fixincome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Holding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/InvestmentManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Maxdrawdown.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Moneymarket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Nav.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Prospectus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Recommendation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/models/robo/check_robo_result/Simplereturn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/google/SearchPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/google/SearchResultPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/AcademyPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/AmendOrderPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/CalendarPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/ChatPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/CompanyPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/DiscoverPeoplePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/EarningsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/FinancialsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/GlossaryPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/LandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/LandingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/OrderPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/OrderbookPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/ProfilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/ReferralPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/RightMenuPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/ScreenerPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/SearchPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/StreamPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/ValuationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/stockbit/WatchlistPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/wikipedia/ArticlePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/webdriver/AndroidDriverInstance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/webdriver/WebdriverInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/webdriver/WebdriverInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/CucumberRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demo/CucumberRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/hooks/AndroidDriverHooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/AcademySteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/AmendOrderSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/BaseSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/CalendarSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/ChatSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/CompanySteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/DiscoverPeopleSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/EarlyBirdSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/EarningsSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/FinancialsSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/GlossarySteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/GoogleStepDefinitions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demo/steps_definition/JamtanganSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/OrderSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/OrderbookSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/ProfileSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/ReferralSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/RightMenuSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/ScreenerSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/SearchSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/StreamSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/ValuationSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/WatchlistSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demo/steps_definition/WikipediaStepDefinitions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/SearchWikipedia.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/Calendar.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/Chat.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/CommonOrder.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/Company.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/DiscoverPeople.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/EarlyBird.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/Earnings.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/Financials.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/Glossary.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/Login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/Orderbook.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/Profile.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/RealAmendOrder.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/RealBuy.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/RealSell.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/Referral.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/RightMenu.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/Screener.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/Search.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/StockbitAcademy.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/Stream.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/Valuation.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/VirtualAmendOrder.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/VirtualBuyOnTradingHour.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/VirtualBuyOutsideTradingHour.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/VirtualSellOnTradingHour.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/VirtualSellOutsideTradingHour.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/stockbit/Watchlist.feature" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HyziSEV7j81Gn9hkbDo3IpOkBe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Gradle.CucumberRunner">
+    <configuration name="Scenario: Login with registered user and correct password" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/stockbit/Jamtangan.Feature" />
+      <option name="GLUE" value="demo.steps_definition demo.hooks" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="StockbitWebUITest.test" />
+      <option name="NAME_FILTER" value="^Login with registered user and correct password$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login with registered user and correct password$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login with registered user and correct password" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;demo.CucumberRunner&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CucumberRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Login with registered user and correct password" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="165e815e-1f3f-4b6a-beac-ebb51afb83fa" name="Changes" comment="" />
+      <created>1669272238449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669272238449</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

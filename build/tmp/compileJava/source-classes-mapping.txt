@@ -1,0 +1,204 @@
+demo/models/auth/login/login_otp/Survey.java
+ demo.models.auth.login.login_otp.Survey
+ demo.models.auth.login.login_otp.Survey$SurveyBuilder
+demo/models/auth/login/login_otp/LoginOtpResponse.java
+ demo.models.auth.login.login_otp.LoginOtpResponse
+ demo.models.auth.login.login_otp.LoginOtpResponse$LoginOtpResponseBuilder
+demo/pages/stockbit/PaymentPage.java
+ demo.pages.stockbit.PaymentPage
+demo/models/portofolio/get_portofolio/GetPortofolioResponse.java
+ demo.models.portofolio.get_portofolio.GetPortofolioResponse
+ demo.models.portofolio.get_portofolio.GetPortofolioResponse$GetPortofolioResponseBuilder
+demo/pages/stockbit/WatchlistPage.java
+ demo.pages.stockbit.WatchlistPage
+demo/models/auth/login/login_otp/Setting.java
+ demo.models.auth.login.login_otp.Setting
+ demo.models.auth.login.login_otp.Setting$SettingBuilder
+demo/api/bibit/auth/login/BaseApi.java
+ demo.api.bibit.auth.login.BaseApi
+demo/models/portofolio/get_portofolio/Data.java
+ demo.models.portofolio.get_portofolio.Data
+ demo.models.portofolio.get_portofolio.Data$DataBuilder
+demo/models/auth/login/login_otp/Preference.java
+ demo.models.auth.login.login_otp.Preference
+ demo.models.auth.login.login_otp.Preference$PreferenceBuilder
+demo/pages/stockbit/SearchPage.java
+ demo.pages.stockbit.SearchPage
+demo/models/robo/check_robo_result/Item.java
+ demo.models.robo.check_robo_result.Item
+ demo.models.robo.check_robo_result.Item$ItemBuilder
+demo/models/robo/check_robo_result/Bank.java
+ demo.models.robo.check_robo_result.Bank
+ demo.models.robo.check_robo_result.Bank$BankBuilder
+demo/models/robo/check_robo_result/Moneymarket.java
+ demo.models.robo.check_robo_result.Moneymarket
+ demo.models.robo.check_robo_result.Moneymarket$MoneymarketBuilder
+demo/models/robo/check_robo_result/Files.java
+ demo.models.robo.check_robo_result.Files
+ demo.models.robo.check_robo_result.Files$FilesBuilder
+demo/pages/stockbit/LoginPage.java
+ demo.pages.stockbit.LoginPage
+demo/models/robo/check_robo_result/Fixincome.java
+ demo.models.robo.check_robo_result.Fixincome
+ demo.models.robo.check_robo_result.Fixincome$FixincomeBuilder
+demo/models/auth/login/login_otp/Correspondence.java
+ demo.models.auth.login.login_otp.Correspondence
+ demo.models.auth.login.login_otp.Correspondence$CorrespondenceBuilder
+demo/pages/stockbit/ProductDetailPage.java
+ demo.pages.stockbit.ProductDetailPage
+demo/pages/stockbit/ValuationPage.java
+ demo.pages.stockbit.ValuationPage
+demo/models/robo/check_robo_result/Holding.java
+ demo.models.robo.check_robo_result.Holding
+ demo.models.robo.check_robo_result.Holding$HoldingBuilder
+demo/pages/stockbit/ShoppingChartPage.java
+ demo.pages.stockbit.ShoppingChartPage
+demo/models/robo/check_robo_result/Data.java
+ demo.models.robo.check_robo_result.Data
+ demo.models.robo.check_robo_result.Data$DataBuilder
+demo/models/auth/login/login_otp/Config.java
+ demo.models.auth.login.login_otp.Config
+ demo.models.auth.login.login_otp.Config$ConfigBuilder
+demo/models/robo/check_robo_result/Prospectus.java
+ demo.models.robo.check_robo_result.Prospectus
+ demo.models.robo.check_robo_result.Prospectus$ProspectusBuilder
+demo/models/robo/check_robo_result/InvestmentManager.java
+ demo.models.robo.check_robo_result.InvestmentManager
+ demo.models.robo.check_robo_result.InvestmentManager$InvestmentManagerBuilder
+demo/models/auth/login/login_otp/Sinvest.java
+ demo.models.auth.login.login_otp.Sinvest
+ demo.models.auth.login.login_otp.Sinvest$SinvestBuilder
+demo/pages/stockbit/DiscoverPeoplePage.java
+ demo.pages.stockbit.DiscoverPeoplePage
+demo/models/robo/check_robo_result/Fee.java
+ demo.models.robo.check_robo_result.Fee
+ demo.models.robo.check_robo_result.Fee$FeeBuilder
+demo/models/robo/check_robo_result/Changesvalue.java
+ demo.models.robo.check_robo_result.Changesvalue
+ demo.models.robo.check_robo_result.Changesvalue$ChangesvalueBuilder
+demo/pages/stockbit/EarningsPage.java
+ demo.pages.stockbit.EarningsPage
+demo/pages/stockbit/FinancialsPage.java
+ demo.pages.stockbit.FinancialsPage
+demo/models/portofolio/get_portofolio/Result.java
+ demo.models.portofolio.get_portofolio.Result
+ demo.models.portofolio.get_portofolio.Result$ResultBuilder
+demo/models/robo/check_robo_result/Nav.java
+ demo.models.robo.check_robo_result.Nav
+ demo.models.robo.check_robo_result.Nav$NavBuilder
+demo/models/auth/login/login_otp/Moengage.java
+ demo.models.auth.login.login_otp.Moengage
+ demo.models.auth.login.login_otp.Moengage$MoengageBuilder
+demo/pages/stockbit/ChatPage.java
+ demo.pages.stockbit.ChatPage
+demo/pages/stockbit/CompanyPage.java
+ demo.pages.stockbit.CompanyPage
+demo/api/bibit/robo/CheckRoboResultApi.java
+ demo.api.bibit.robo.CheckRoboResultApi
+demo/pages/stockbit/ReferralPage.java
+ demo.pages.stockbit.ReferralPage
+demo/models/auth/login/login_otp/Token.java
+ demo.models.auth.login.login_otp.Token
+ demo.models.auth.login.login_otp.Token$TokenBuilder
+demo/models/robo/check_robo_result/Recommendation.java
+ demo.models.robo.check_robo_result.Recommendation
+ demo.models.robo.check_robo_result.Recommendation$RecommendationBuilder
+demo/pages/stockbit/OrderbookPage.java
+ demo.pages.stockbit.OrderbookPage
+demo/pages/stockbit/AmendOrderPage.java
+ demo.pages.stockbit.AmendOrderPage
+demo/models/auth/login/login_otp/Data.java
+ demo.models.auth.login.login_otp.Data
+ demo.models.auth.login.login_otp.Data$DataBuilder
+demo/api/bibit/auth/login/LoginApi.java
+ demo.api.bibit.auth.login.LoginApi
+demo/models/auth/login/login_phone/Data.java
+ demo.models.auth.login.login_phone.Data
+ demo.models.auth.login.login_phone.Data$DataBuilder
+demo/pages/stockbit/ProfilePage.java
+ demo.pages.stockbit.ProfilePage
+demo/pages/stockbit/CalendarPage.java
+ demo.pages.stockbit.CalendarPage
+demo/models/robo/check_robo_result/Equity.java
+ demo.models.robo.check_robo_result.Equity
+ demo.models.robo.check_robo_result.Equity$EquityBuilder
+demo/models/robo/check_robo_result/CustodianBank.java
+ demo.models.robo.check_robo_result.CustodianBank
+ demo.models.robo.check_robo_result.CustodianBank$CustodianBankBuilder
+demo/models/auth/login/login_otp/Crisp.java
+ demo.models.auth.login.login_otp.Crisp
+ demo.models.auth.login.login_otp.Crisp$CrispBuilder
+demo/constants/AutomationConstants.java
+ demo.constants.AutomationConstants
+demo/pages/stockbit/RightMenuPage.java
+ demo.pages.stockbit.RightMenuPage
+demo/models/auth/login/login_phone/LoginPhoneResponse.java
+ demo.models.auth.login.login_phone.LoginPhoneResponse
+ demo.models.auth.login.login_phone.LoginPhoneResponse$LoginPhoneResponseBuilder
+demo/models/auth/login/login_otp/User.java
+ demo.models.auth.login.login_otp.User
+ demo.models.auth.login.login_otp.User$UserBuilder
+demo/models/robo/check_robo_result/Expenseratio.java
+ demo.models.robo.check_robo_result.Expenseratio
+ demo.models.robo.check_robo_result.Expenseratio$ExpenseratioBuilder
+demo/pages/stockbit/CheckoutPage.java
+ demo.pages.stockbit.CheckoutPage
+demo/pages/stockbit/CataloguePage.java
+ demo.pages.stockbit.CataloguePage
+demo/models/robo/check_robo_result/Simplereturn.java
+ demo.models.robo.check_robo_result.Simplereturn
+ demo.models.robo.check_robo_result.Simplereturn$SimplereturnBuilder
+demo/models/robo/check_robo_result/Asset.java
+ demo.models.robo.check_robo_result.Asset
+ demo.models.robo.check_robo_result.Asset$AssetBuilder
+demo/models/robo/check_robo_result/Aum.java
+ demo.models.robo.check_robo_result.Aum
+ demo.models.robo.check_robo_result.Aum$AumBuilder
+demo/pages/stockbit/ScreenerPage.java
+ demo.pages.stockbit.ScreenerPage
+demo/pages/stockbit/StreamPage.java
+ demo.pages.stockbit.StreamPage
+demo/models/robo/check_robo_result/Result.java
+ demo.models.robo.check_robo_result.Result
+ demo.models.robo.check_robo_result.Result$ResultBuilder
+demo/pages/stockbit/OrderPage.java
+ demo.pages.stockbit.OrderPage
+demo/models/robo/check_robo_result/CheckRoboResultResponse.java
+ demo.models.robo.check_robo_result.CheckRoboResultResponse
+ demo.models.robo.check_robo_result.CheckRoboResultResponse$CheckRoboResultResponseBuilder
+demo/models/robo/check_robo_result/Maxdrawdown.java
+ demo.models.robo.check_robo_result.Maxdrawdown
+ demo.models.robo.check_robo_result.Maxdrawdown$MaxdrawdownBuilder
+demo/api/bibit/auth/login/PortofolioApi.java
+ demo.api.bibit.auth.login.PortofolioApi
+demo/models/robo/check_robo_result/Cagr.java
+ demo.models.robo.check_robo_result.Cagr
+ demo.models.robo.check_robo_result.Cagr$CagrBuilder
+demo/models/robo/check_robo_result/Factsheet.java
+ demo.models.robo.check_robo_result.Factsheet
+ demo.models.robo.check_robo_result.Factsheet$FactsheetBuilder
+demo/constants/EndpointConstants.java
+ demo.constants.EndpointConstants
+demo/api/pokeapi/PokemonController.java
+ demo.api.pokeapi.PokemonController
+demo/models/auth/login/login_otp/PaymentConfig.java
+ demo.models.auth.login.login_otp.PaymentConfig
+ demo.models.auth.login.login_otp.PaymentConfig$PaymentConfigBuilder
+demo/pages/stockbit/GlossaryPage.java
+ demo.pages.stockbit.GlossaryPage
+demo/pages/base/BasePageObject.java
+ demo.pages.base.BasePageObject
+demo/pages/google/SearchResultPage.java
+ demo.pages.google.SearchResultPage
+demo/pages/stockbit/MainPage.java
+ demo.pages.stockbit.MainPage
+demo/pages/stockbit/AcademyPage.java
+ demo.pages.stockbit.AcademyPage
+demo/webdriver/WebdriverInstance.java
+ demo.webdriver.WebdriverInstance
+demo/pages/wikipedia/ArticlePage.java
+ demo.pages.wikipedia.ArticlePage
+demo/pages/stockbit/LandingPage.java
+ demo.pages.stockbit.LandingPage
+demo/pages/google/SearchPage.java
+ demo.pages.google.SearchPage
