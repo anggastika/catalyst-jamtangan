@@ -9,7 +9,7 @@ is a Automated UI Test project for Catalyst Jamtangan
 
 ## How To Configure
 - Clone this repository
-- run "gradle clean"
+- run "gradle clean" for download dependencies
 
 ## How to Run
 
